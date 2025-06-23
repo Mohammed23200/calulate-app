@@ -55,4 +55,4 @@ Available via terminal or command prompt.
 
 📁 This Project Repo: https://github.com/Mohammed23200/calulate-app
 
-🎉linkedIn post: 
+🎉linkedIn post: https://www.linkedin.com/posts/mohammed-gamal-4012122b5_100daysofcode-python-pythonprojects-activity-7342927419114242052-u-5M?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEusCMEBlqA5l7VNDV6ynoKsXvO5Jq7ixNA
